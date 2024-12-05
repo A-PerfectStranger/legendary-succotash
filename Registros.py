@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 fake = Faker()
 
 ciudades = ['Quito', 'Riobamba', 'Cuenca', 'Loja']
-representantes = ['Sofía Morales', 'Camila Rojas', 'Alejandro Vargas', 'Sebastián Méndez', 'Andrea Castillo']
+representantes = ['Sofia Morales', 'Camila Rojas', 'Alejandro Vargas', 'Sebastian Mendez', 'Andrea Castillo']
 marcas = ['Toyota', 'Honda', 'Ford', 'Nissan', 'Chevrolet', 'BMW']
 categorias = ['Automovil', 'SUV', 'Camioneta']
 valor_min = 12800
